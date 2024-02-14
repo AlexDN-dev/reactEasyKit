@@ -1,0 +1,7 @@
+Page à faire :
+    - connexion     OK
+    - inscription   OK
+    - mot de passe oublié (demande de l'adresse mail + 2FA si installé sur le compte lié à l'adresse mail).
+    - 2FA
+    - Profil
+    - Admin

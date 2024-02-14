@@ -1,0 +1,46 @@
+.loginContainer {
+    position: relative;
+    overflow: hidden;
+}
+.loginBox h2 {
+    text-align: center;
+    font-size: 24px;
+}
+.loginBox p {
+    font-size: 12px;
+    text-align: center;
+}
+.loginOptions {
+    display: flex;
+    flex-direction: column;
+}
+.loginOptions p {
+    font-size: 12px;
+    text-align: center;
+    color: #43A047;
+    cursor: pointer;
+    margin: 15px 0 5px 0; 
+}
+.loginOptions p:hover {
+    color: #318A5D;
+}
+.socialNetwork {
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.signUp h2 {
+    margin-bottom: 20px;
+}
+.weak {
+    background-color: red;
+}
+
+.medium {
+    background-color: orange;
+}
+
+.strong {
+    background-color: green;
+}
